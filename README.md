@@ -14,7 +14,7 @@
 
 <div align="left">
  
-◈ 👨‍💻 Software Engineer sharing about my journey and learnings in tech <br>
+◈ 👨‍💻 Software Engineer flying in codes<br>
 ◈ 👨‍🎓 Studied Computer Science & Engineering <br>
 ◈ 🎞️ Video Eeditor & Graphics Designer <br>
 ◈ 💻 Tech Enthusiast <br>
